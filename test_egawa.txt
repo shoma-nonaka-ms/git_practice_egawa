@@ -1,1 +1,2 @@
 Git演習⽤ファイル
+Hello vi!
